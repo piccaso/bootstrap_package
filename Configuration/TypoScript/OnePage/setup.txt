@@ -140,6 +140,7 @@ page {
 			onePage.value = 1
 		}
 	}
+  includeJSFooterlibs.onePageNurseLinks = {$page.includePath.javascript}Libs/nurselinks.js
 }
 
 
